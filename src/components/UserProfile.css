@@ -1,0 +1,26 @@
+.user-profile {
+    padding: 30px;
+    margin: 30px 0;
+    border-radius: 12px;
+    background-color: #dfb61f;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #ffcc00; /* Accent border */
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+  
+  .user-profile:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  }
+  
+  .user-profile h2 {
+    margin-top: 0;
+    font-size: 2em;
+    color: #222;
+  }
+  
+  .user-profile p {
+    color: #666;
+    font-size: 1em;
+    line-height: 1.6;
+  }
