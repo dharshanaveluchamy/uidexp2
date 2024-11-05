@@ -1,3 +1,9 @@
+# Output
+![image](https://github.com/user-attachments/assets/cc365236-bb2d-496b-a0f4-c79ed5fbd51c)
+
+# Description
+Build a user profile page in React by passing user details as props to different components. This project demonstrates how to structure a profile page that displays information such as name, profile picture, bio, and contact details. Each part of the profile—like the profile header, user bio, and contact section—is built as a reusable component. By passing data as props, you’ll see how React allows for flexible and maintainable code. This setup helps beginners understand how to manage data between components and design a dynamic, personalized user profile layout with ease.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
